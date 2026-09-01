@@ -2,9 +2,6 @@
 Smart Digital Queue & Healthcare Management Platform
 MedQ Care is a full-stack healthcare management application that connects patients, doctors, reception staff, and administrators through role-based dashboards, appointment management, digital OPD queue handling, prescriptions, medical reports, and platform administration.
 
-🌐 Live Demo
-Live website: https://msushit12.github.io/-MEDQ_CARE/
-
 📱 Scan to open the application
 Place the included qr-code.png file in the root of this repository.
 
